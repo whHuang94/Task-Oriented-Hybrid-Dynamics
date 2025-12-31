@@ -4,12 +4,12 @@ This repository stores the code and datasets for the **task-oriented hybrid dyna
 
 
 ## Requirments
-pandas-2.2.1
-matplotlib-3.8.1
-numpy-1.26.1
-torch-2.2.2
-d2l-0.15.0
-tensorboardX-2.6.4
+pandas-2.2.1<br>
+matplotlib-3.8.1<br>
+numpy-1.26.1<br>
+torch-2.2.2<br>
+d2l-0.15.0<br>
+tensorboardX-2.6.4<br>
 scipy-1.11.3
 
 ## Repository Content Overview
