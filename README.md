@@ -17,9 +17,9 @@ scipy-1.11.3
 |------------------------------|-----------------------------------------------------------------------------|
 | `model\TaskOrientedHybridDynamics.py`                    | Model definition file: Implements the LSTM network architecture for contact force estimation |
 | `main.ipynb`         | Main test file: Complete workflow for loading datasets, calling the model, and executing contact force estimation |
-| `ContactlessDataset1.csv` | Contactless Dataset 1: Contains 2600 training samples and 200 test samples |
-| `ContactlessDataset2.csv` | Contactless Dataset 2: Contains 2600 training samples and 200 test samples |
-| `ContactDataset1.csv` | Contact Dataset 1: Contains 2600 training samples and 200 test samples     |
+| `data\ContactlessDataset1.csv` | Contactless Dataset 1: Contains 2600 training samples and 200 test samples |
+| `data\ContactlessDataset2.csv` | Contactless Dataset 2: Contains 2600 training samples and 200 test samples |
+| `data\ContactDataset1.csv` | Contact Dataset 1: Contains 2600 training samples and 200 test samples     |
 
 
 ## Quick Start
