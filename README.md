@@ -31,4 +31,4 @@ scipy-1.11.3
 2. Run Code
    ```bash
    python main.ipynb
-![图片描述文本 (Alt Text)](JointCurrentEstimateTest.jpg)
+![图片描述文本 (Alt Text)](JointCurrentEstimateTest.svg)
