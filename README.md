@@ -2,6 +2,7 @@
 
 This repository stores the code and datasets for the **task-oriented hybrid dynamics modeling framework**, which is used in research on contact force estimation for manipulators via intrinsic sensors.
 
+![Uploading figure4.jpg…]()
 
 ## Requirments
 pandas-2.2.1<br>
